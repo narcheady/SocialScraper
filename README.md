@@ -1,5 +1,5 @@
 # SocialScraper
-This project can be used to crawl, scrape data from different social media websites.</br>
+This project can be used to crawl, scrape data from different social media websites. (As of now this only supports Twitter, other modules will be added soon.)</br>
 <b>This project does not use Twitter API</b> For performing searches from Twitter API, you can use <a href="http://docs.tweepy.org/en/latest/api.html">Tweepy</br>.
 This script can be used to scrape Tweets using <code>requests</code> to retrieve the content and <code>Beautifulsoup4</code> to parse the retrieved content and then <code>Pandas</code> to save all data in csv format.</br>
 
